@@ -1,0 +1,53 @@
+@CHARSET "GBK";
+   BODY {
+    SCROLLBAR-FACE-COLOR: #FFFFFF;
+    SCROLLBAR-HIGHLIGHT-COLOR: #FFFFFF;
+    SCROLLBAR-SHADOW-COLOR: #999999;
+    SCROLLBAR-3DLIGHT-COLOR: #999999;
+    SCROLLBAR-ARROW-COLOR: #999999;
+    SCROLLBAR-TRACK-COLOR: #FFFFFF;
+    SCROLLBAR-DARKSHADOW-COLOR: #FFFFFF
+   }
+   
+   .TextBox {
+    font-size: 12px;
+    color: #666666;
+    border: 1px solid #DDDDDD;
+    text-decoration: none;
+   }
+   
+   .TextBox_Select {
+    font-size: 12px;
+    color: #666666;
+    border: 1px solid #666666;
+    text-decoration: none;
+   }
+   
+   .TextBox_Touch {
+    font-size: 12px;
+    color: #666666;
+    border: 1px solid #0099ff;
+    text-decoration: none;
+   }
+   
+   .Button {
+    FONT-SIZE: 12px;
+    COLOR: #666666;
+    text-decoration: none;
+    BACKGROUND-COLOR: #FFFFFF;
+    border: 1px solid #999999;
+   }
+   
+   .Button_Select {
+    FONT-SIZE: 12px;
+    COLOR: #FFFFFF;
+    text-decoration: none;
+    BACKGROUND-COLOR: #CCCCCC;
+    border: 1px solid #999999;
+   }
+   
+   .Text01 {
+    font-size: 12px;
+    color: #666666;
+    text-decoration: none;
+   }

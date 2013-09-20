@@ -1,0 +1,1 @@
+sqlplus "system/oracle@oracle as sysdba" @create.sql hww hww

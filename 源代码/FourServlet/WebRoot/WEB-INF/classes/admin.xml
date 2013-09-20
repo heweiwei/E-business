@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<users> 
+  <user> 
+    <username>admin</username>  
+    <password>123456</password>  
+    <realName>wizard</realName>  
+    <sex>male</sex>  
+    <birthday>1989-11-09</birthday>  
+    <email>wizardwsk@vip.qq.com</email>  
+    <phoneNumber>15980736321</phoneNumber>  
+    <address>福州大学</address>  
+    <postCode>350108</postCode>  
+    <role>1</role> 
+  </user>  
+  <user> 
+    <username>wizardwsk</username>  
+    <password>yanhehe</password>  
+    <realName>wsk</realName>  
+    <sex>male</sex>  
+    <birthday>1989-11-09</birthday>  
+    <email>wizardwsk@vip.qq.com</email>  
+    <phoneNumber>15980736321</phoneNumber>  
+    <address>sdfsdfsdf</address>  
+    <postCode>123456</postCode>  
+    <role>5</role> 
+  </user> 
+</users>
